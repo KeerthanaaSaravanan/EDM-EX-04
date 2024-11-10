@@ -7,6 +7,7 @@
 ## AIM: 
  To reverse engineering the product and prototyping the same in 3D printer.
 <br>
+
 ## REQUIREMENTS:
  ●	CURA 4.0 Software
 
@@ -14,6 +15,7 @@
 
  ●	 System - Windows 7 or higher, 1 GB RAM.
 <br>
+
 ## PROCEDURE:
  Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
  
@@ -47,6 +49,7 @@
      ●	Close the doors of the 3d printer.
      
      ●	Open the file from the USB storage and select the Print option.
+<br>
 <br>
 
 ## Input:
