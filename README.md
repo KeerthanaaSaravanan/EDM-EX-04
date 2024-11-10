@@ -6,7 +6,7 @@
 
 ## AIM: 
  To reverse engineering the product and prototyping the same in 3D printer.
-
+<br>
 ## REQUIREMENTS:
  ●	CURA 4.0 Software
 
@@ -34,7 +34,6 @@
  Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
  
  Step 10.:- After generate the gcode format then follow the these instruction 
- 
      ●	Switch on the 3d printer.
      
      ●	Place your Pen drive in USB.
