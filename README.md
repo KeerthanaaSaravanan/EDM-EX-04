@@ -56,7 +56,8 @@
 <br>
 
 ## Input:
-![image](https://github.com/user-attachments/assets/b2e99595-42ae-46b0-8f13-cb210cdad4c8)
+![image](https://github.com/user-attachments/assets/d35c941a-0ea4-4f44-9ba4-6dc81f89c31b)
+
 <br>
 
 ### Output:
