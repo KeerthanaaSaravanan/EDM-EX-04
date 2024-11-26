@@ -32,10 +32,10 @@ To reverse engineering the product and prototyping the same in 3D printer.
      ● Open the file from the USB storage and select the Print option.
 
 ## Input:
-![WhatsApp Image 2023-12-24 at 16 41 00_c51f9f20](https://github.com/Raji1009/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/89059861/37a3ee60-4b56-4f13-9964-d69a8571e59a)
+![image](https://github.com/user-attachments/assets/f42b1238-bed0-4ff0-b195-bed65cc7662d)
 
 ### Output:
-![WhatsApp Image 2023-12-24 at 16 40 10_5ab6b9b1](https://github.com/Raji1009/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/89059861/d1a8c2c5-e1c9-4c89-af31-2de55a5a8e33)
+![image](https://github.com/user-attachments/assets/6935c2c0-cb53-48d7-867a-33e4667a336d)
 
 ### Name: KEERTHANA S
 ### Register Number: 212223240070
